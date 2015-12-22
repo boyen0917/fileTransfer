@@ -1,0 +1,27 @@
+{
+    "_GET": [],
+    "_POST": {
+        "opt": "update",
+        "json_string": "{\n  \"ipa\": {\n    \"version\": \"1.0.1.14\",\n    \"datetime\": \"2015-08-07 14:7\"\n  },\n  \"plist\": {\n    \"version\": \"\",\n    \"datetime\": \"2014-05-08 14:40\"\n  },\n  \"apk\": {\n    \"version\": \"333\",\n    \"datetime\": \"2015-11-24 18:33\"\n  }\n}"
+    },
+    "_COOKIE": {
+        "_ga": "GA1.1.1339721725.1428390380",
+        "JSESSIONID": "991292A06FAB64DE80B3A0C864A53388"
+    },
+    "_FILES": [],
+    "GLOBALS": {
+        "_GET": [],
+        "_POST": {
+            "opt": "update",
+            "json_string": "{\n  \"ipa\": {\n    \"version\": \"1.0.1.14\",\n    \"datetime\": \"2015-08-07 14:7\"\n  },\n  \"plist\": {\n    \"version\": \"\",\n    \"datetime\": \"2014-05-08 14:40\"\n  },\n  \"apk\": {\n    \"version\": \"333\",\n    \"datetime\": \"2015-11-24 18:33\"\n  }\n}"
+        },
+        "_COOKIE": {
+            "_ga": "GA1.1.1339721725.1428390380",
+            "JSESSIONID": "991292A06FAB64DE80B3A0C864A53388"
+        },
+        "_FILES": [],
+        "GLOBALS": null,
+        "myfile": null
+    },
+    "myfile": null
+}
